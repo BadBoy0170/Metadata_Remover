@@ -24,7 +24,7 @@ A comprehensive tool for managing image metadata with encryption capabilities. A
 ### Web Version
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/secure-metadata-manager
+git clone https://github.com/BadBoy0170/Metadata_Remover.git
 cd secure-metadata-manager
 
 # Install dependencies
